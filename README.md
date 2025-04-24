@@ -52,13 +52,3 @@ To write SQL queries to extract useful information from a structured database us
 All outputs of the queries are saved in the `screenshots` folder for reference.
 
 ---
-
-## Submission
-
-This GitHub repository link has been submitted as my solution to the SQL task using the official submission form.
-
----
-
-## Task Completed
-
-
